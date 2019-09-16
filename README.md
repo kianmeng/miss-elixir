@@ -1,9 +1,9 @@
 # Miss Elixir
 
-Some functions that I miss in Elixir core.
+Some functions that we miss in Elixir core.
 
-Miss Elixir library brings in a non-intrusive way some functions that, for different reasons, are
-not part of the Elixir core.
+Miss Elixir library brings in a non-intrusive way some extra functions that, for different reasons,
+are not part of the Elixir core.
 
 ## Installation
 

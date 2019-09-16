@@ -39,7 +39,7 @@ defmodule Miss.MixProject do
 
   defp description do
     """
-    Some functions that I miss in Elixir core.
+    Some functions that we miss in Elixir core.
     """
   end
 
